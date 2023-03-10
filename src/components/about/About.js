@@ -20,7 +20,7 @@ const About = () => {
             websites and web applications. My skills in front-end development
             allow me to design visually appealing and intuitive user interfaces,
             while my expertise in back-end development ensures that the web
-            application is fast, reliable, and scalable.
+            application is fast, reliable and scalable.
           </p>
           <a href="#contact"  className="btn btn-primary">
             Let's Talk
